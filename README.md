@@ -17,5 +17,8 @@ There will be an home page, settings, and beatmaps.
 ## Challenges
 I think the creation of the beatmaps will be a hard part for the creation of the game.
 
+## Mockup
+![Mockup]()
+
 ## UML
 ![UML](https://github.com/425656gabriel/Portfolio-Project-Setup-Repo-Class-Diagram-Mockup-and-README/blob/main/images/UML%20Diagram.png)
