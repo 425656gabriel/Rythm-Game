@@ -22,3 +22,15 @@ I think the creation of the beatmaps will be a hard part for the creation of the
 
 ## UML
 ![UML](https://github.com/425656gabriel/Portfolio-Project-Setup-Repo-Class-Diagram-Mockup-and-README/blob/main/images/UML%20Diagram.png)
+
+## Phase 1 Progress
+
+I have created the Home class that is the entry point of game.
+
+### Classes Created
+- `Home` – Is the first screen of the game
+
+### Next Steps
+- create more classes
+- build methods
+- create beatmaps
